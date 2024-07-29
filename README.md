@@ -5,7 +5,7 @@ A 3D social media site for 3D modeling artists.
 
 Hero page of this project is on another repo,
 
-- [Innovate 3D Hero Page](https://github.com/prasadcode58/Innovate3D-Hero-Page)
+- [Innovate 3D Hero Page](https://github.com/gau-rav-02/Innovate3D-Hero-Page)
 
 # Pre - requisites
 
